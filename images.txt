@@ -1,6 +1,6 @@
-nginx
+docker pull mysql：8.0.39
 #支持私库
-docker pull mysql:8.0.39
+
 
 #支持指定架构
 
