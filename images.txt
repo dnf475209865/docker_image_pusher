@@ -1,4 +1,4 @@
-docker pull mysql：8.0.39
+docker pull mysql：8.0.39:sha256:ccb8f749bb5e59f9f8f03bf7282c7ef27a93a1814a24f0a8a926fb4e19b7fb97
 #支持私库
 
 
